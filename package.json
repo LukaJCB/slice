@@ -1,0 +1,17 @@
+{
+  "name": "slice",
+  "version": "0.1.0",
+  "description": "A fixed length array type fully known at compile time",
+  "author": "LukaJcb",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "prettier": "3.5.1",
+    "ts-jest": "^29.2.5",
+    "typescript": "~5.7.2"
+  }
+}
